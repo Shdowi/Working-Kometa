@@ -21,7 +21,7 @@ local done = true
 -- Script tables
 
 local temptable = {
-    version = "394.34.5",
+    version = "2 PRO",
     MondoCollectTokens = false,
     blackfield = "Ant Field",
     LastFieldColor = 'White',
@@ -1297,7 +1297,7 @@ function UseDispensers()
     end
 end
 
-local ui = library.new(true, "Kocmoc⚠️ | v"..temptable.version)
+local ui = library.new(true, "Kometa️ Jailbreaked by Shadowi | v"..temptable.version)
 ui.ChangeToggleKey(Enum.KeyCode.Semicolon)
 
 local hometab = ui:Category("Home")
@@ -1313,9 +1313,9 @@ local Configs_Category = ui:Category("Config")
 local setttab = ui:Category("Settings")
 
 local main = hometab:Sector("Main")
-main:Cheat("Label", "ℸ ̣ ⍑ᔑリꖌᓭ ||𝙹⚍ ⎓𝙹∷ ⚍ᓭ╎リ⊣ 𝙹⚍∷ ᓭᓵ∷╎!¡ℸ ̣ !")
-main:Cheat("Label", "ᔑリ𝙹ℸ ̣ ⍑ᒷ∷ 𝙹⎓⎓╎ᓵ╎ᔑꖎ ⎓𝙹∷ꖌ 𝙹⎓ ꖌ𝙹ᓵᒲ𝙹ᓵ ʖ|| リ𝙹ℸ ̣ ∴ᒷ⚍⨅")
-main:Cheat("Label", "ᓭᓵ∷╎!¡ℸ ̣  ʖ|| ᒲ∷↸ᒷ⍊ꖎ,.ᔑリ𝙹リ, ᓵ∷||!¡ℸ ̣ 𝙹⨅ᒷリ ᔑリ↸ リ𝙹ℸ ̣ ∴ᒷ⚍⨅")
+main:Cheat("Label", "Thanks you for using our script!")
+main:Cheat("Label", "Another official fork of kocmoc by notweuz")
+main:Cheat("Label", "Script JAILBREAKED BY SHADOWI :D")
 main:Cheat("Label", "Script version: "..temptable.version)
 --information:Cheat("Button", "Discord Invite", function() setclipboard("https://discord.gg/2a5gVpcpzv") end)
 --information:Cheat("Button", "Donation", function() setclipboard("https://qiwi.com/n/W33UZ") end)
